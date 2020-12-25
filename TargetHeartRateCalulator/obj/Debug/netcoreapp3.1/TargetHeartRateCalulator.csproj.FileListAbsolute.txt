@@ -1,0 +1,13 @@
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\bin\Debug\netcoreapp3.1\TargetHeartRateCalulator.exe
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\bin\Debug\netcoreapp3.1\TargetHeartRateCalulator.deps.json
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\bin\Debug\netcoreapp3.1\TargetHeartRateCalulator.runtimeconfig.json
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\bin\Debug\netcoreapp3.1\TargetHeartRateCalulator.runtimeconfig.dev.json
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\bin\Debug\netcoreapp3.1\TargetHeartRateCalulator.dll
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\bin\Debug\netcoreapp3.1\TargetHeartRateCalulator.pdb
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\obj\Debug\netcoreapp3.1\TargetHeartRateCalulator.csprojAssemblyReference.cache
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\obj\Debug\netcoreapp3.1\TargetHeartRateCalulator.AssemblyInfoInputs.cache
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\obj\Debug\netcoreapp3.1\TargetHeartRateCalulator.AssemblyInfo.cs
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\obj\Debug\netcoreapp3.1\TargetHeartRateCalulator.dll
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\obj\Debug\netcoreapp3.1\TargetHeartRateCalulator.pdb
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\obj\Debug\netcoreapp3.1\TargetHeartRateCalulator.csproj.CoreCompileInputs.cache
+E:\DCTC\NET1\Chapter4\TargetHeartRateCalulator\TargetHeartRateCalulator\obj\Debug\netcoreapp3.1\TargetHeartRateCalulator.genruntimeconfig.cache
